@@ -1,6 +1,6 @@
 # Aiko-Server
 
-Aiko Server For AikoPanel
+Aiko Server For AikoPanel and ZicBoard
 
 <p align="center"><img src="https://avatars.githubusercontent.com/u/91626055?v=4" width="128" /></p>
 
